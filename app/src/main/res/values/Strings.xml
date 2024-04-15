@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RestauranteOrdenes</string>
+    <string name="hintPlayer">Comida</string>
+    <string name="hintTeam">Nombre</string>
+    <string name="hintNationality">Propina</string>
+    <string name="textImage">Image</string>
+
+    <string name="textSave">Guardar</string>
+    <string name="textCancel">Cancelar</string>
+    <string name="textPlayerSaved">Orden guardada correctamente</string>
+    <string name="textErrorPlayerSaved">Error al guardarr</string>
+    <string name="textUpdate">Actualizar</string>
+    <string name="textDelete">Borrar</string>
+
+    <string name="textPlayerUpdated">Orden actualizada correctamente</string>
+    <string name="textErrorPlayerUpdated">Error al actualizar</string>
+
+    <string name="textPlayerDeleted">Orden borrada correctamente</string>
+    <string name="textErrorPlayerDeleted">Error al borrar</string>
+
+    <string name="textAccept">Aceptar</string>
+    <string name="textConfirmation">Confirmation</string>
+    <string name="textNoRecords">There are no records</string>
+    <string name="textAddElement">Add Element</string>
+    <string name="confirm_delete_player">Deseas borrar la orden: %s?</string>
+</resources>
